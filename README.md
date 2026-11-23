@@ -34,7 +34,7 @@ resolve it to this fork under the hood.
 
 You can also pin to a specific branch or commit:
 ```bash
-npm install "@whiskeysockets/baileys" : "github:satxzy/baileys"
+npm install "@whiskeysockets/baileys": "github:satxzy/baileys"
 ```
 
 ## Import
