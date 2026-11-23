@@ -2,8 +2,6 @@
 
 <p align="center">
 
-  <img src="https://files.catbox.moe/i497x5.jpg" width="180" alt="Pou"/>
-
 </p>
 
 <div align='center'>
@@ -36,7 +34,7 @@ resolve it to this fork under the hood.
 
 You can also pin to a specific branch or commit:
 ```bash
-npm install github:satxzy/baileys
+npm install "@whiskeysockets/baileys" : "github:satxzy/baileys"
 ```
 
 ## Import
