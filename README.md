@@ -167,7 +167,7 @@ await client.sendMessage(m.chat, {
 ## Send an orderMessage
 ```javascript
 const fs = require('fs');
-const thumbnail = fs.readFileSync('./pouthumb.jpg');
+const thumbnail = fs.readFileSync('./satxzy.jpg');
 
 await client.sendMessage(m.chat, {
   thumbnail,
